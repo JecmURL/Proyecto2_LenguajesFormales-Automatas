@@ -1,0 +1,9 @@
+C:\Users\FalconJecm\source\repos\LFYA_Maquinas_Turing_v1\LFYA_Maquinas_Turing_v1\bin\Release\LFYA_Maquinas_Turing_v1.exe.config
+C:\Users\FalconJecm\source\repos\LFYA_Maquinas_Turing_v1\LFYA_Maquinas_Turing_v1\bin\Release\LFYA_Maquinas_Turing_v1.exe
+C:\Users\FalconJecm\source\repos\LFYA_Maquinas_Turing_v1\LFYA_Maquinas_Turing_v1\bin\Release\LFYA_Maquinas_Turing_v1.pdb
+C:\Users\FalconJecm\source\repos\LFYA_Maquinas_Turing_v1\LFYA_Maquinas_Turing_v1\obj\Release\LFYA_Maquinas_Turing_v1.frmMainUI.resources
+C:\Users\FalconJecm\source\repos\LFYA_Maquinas_Turing_v1\LFYA_Maquinas_Turing_v1\obj\Release\LFYA_Maquinas_Turing_v1.Properties.Resources.resources
+C:\Users\FalconJecm\source\repos\LFYA_Maquinas_Turing_v1\LFYA_Maquinas_Turing_v1\obj\Release\LFYA_Maquinas_Turing_v1.csproj.GenerateResource.Cache
+C:\Users\FalconJecm\source\repos\LFYA_Maquinas_Turing_v1\LFYA_Maquinas_Turing_v1\obj\Release\LFYA_Maquinas_Turing_v1.csproj.CoreCompileInputs.cache
+C:\Users\FalconJecm\source\repos\LFYA_Maquinas_Turing_v1\LFYA_Maquinas_Turing_v1\obj\Release\LFYA_Maquinas_Turing_v1.exe
+C:\Users\FalconJecm\source\repos\LFYA_Maquinas_Turing_v1\LFYA_Maquinas_Turing_v1\obj\Release\LFYA_Maquinas_Turing_v1.pdb
